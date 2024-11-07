@@ -8,8 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: MagnifyingGlass
-  m_Shader: {fileID: -6465566751694194690, guid: 09434c26a967af1478c3cbfe318365bd,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 09434c26a967af1478c3cbfe318365bd, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -65,16 +64,16 @@ Material:
     - _Float: -0.06
     - _HighlightAmount: 0
     - _LensEdge: 0
-    - _LensEdgeSharpness: 0.167
+    - _LensEdgeSharpness: 0.188
     - _LensInner: 0.298
     - _LensOuter: 1
     - _Magnify: -0.21
-    - _MagnifyDistortion: 0.0723
+    - _MagnifyDistortion: 0.0705
     - _MagnifyRadius: 1
     - _MinimumHighlight: 0
     - _Radius: 1
     - _Speed: 0
-    - _Zoom: 0.466
+    - _Zoom: 0.372
     - _ZoomFactor: 0.34
     m_Colors:
     - _Center: {r: 0, g: 0, b: 0, a: 0}

@@ -8,8 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: RadialWarp
-  m_Shader: {fileID: -6465566751694194690, guid: 4e5b5a9b2a2434fa8b28b562fde68b36,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 4e5b5a9b2a2434fa8b28b562fde68b36, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -54,9 +53,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Distortion_Strength: 0.1
+    - _Distortion_Strength: 5.08
     - _EnableExternalAlpha: 0
-    - _Propagation_Speed: 0.2
+    - _Propagation_Speed: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
